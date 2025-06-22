@@ -66,6 +66,19 @@ why security is crucial for each key area of the project
 
 </gemini>
 
+# CI/CD Pipeline 
+
+CI/CD pipelines are essential practices in modern software development that automate stages of the software delivery process. They are incredibly important for a complex project like your Airbnb clone because they streamline development, improve reliability, and accelerate feature delivery. 
+
+Tools that could be used for this: 
+
+GitHub / GitLab / Bitbucket (Version Control & CI/CD Platform):
+Docker (Containerization):
+Jenkins / CircleCI / Travis CI (Dedicated CI/CD Servers - Alternative to built-in):
+npm / Yarn / Maven / Gradle (Package Managers & Build Tools):
+Jest / Mocha / JUnit / Pytest (Testing Frameworks):
+Terraform / Ansible / CloudFormation (Infrastructure as Code - IaC):
+Sentry / New Relic / Prometheus & Grafana (Monitoring & Logging):
 
 
 
