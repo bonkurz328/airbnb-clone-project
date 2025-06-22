@@ -33,8 +33,38 @@ Payment Processing: Integrate a payment system to handle transactions and record
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
+# API Security 
 
+<gemini for="edits">
 
+key security measures that will be implemented
+
+1. Authentication: Knowing Who's Who
+Authentication is the process of verifying the identity of a user or service trying to access your application. Without proper authentication, anyone could pretend to be anyone else.
+
+2. Authorization: What Can They Do?
+Once a user is authenticated (you know who they are), authorization determines what actions that user is permitted to perform and what resources they can access.
+
+3. Rate Limiting: Preventing Abuse
+Rate limiting controls the number of requests a user or IP address can make to your server within a given timeframe. This is crucial for preventing various types of attacks and ensuring fair usage.
+
+4. Input Validation & Data Sanitization
+While not strictly a "security measure" in the same vein as authentication, these are fundamental to preventing a host of vulnerabilities:
+
+5. Secure Communication (HTTPS)
+
+6. Error Handling & Logging
+
+why security is crucial for each key area of the project 
+
+1. Protecting User Data (Profiles, Messages, Preferences):
+2. Securing Payments (Booking Transactions, Financial Information):
+3. Ensuring Data Integrity (Listing Details, Booking Statuses, Reviews):
+4. Maintaining Platform Availability (Uptime, Performance):
+5. Preventing Fraud (Fake Listings, Scam Bookings, Account Takeovers):
+6. Protecting Business Logic & Intellectual Property:
+
+</gemini>
 
 
 
