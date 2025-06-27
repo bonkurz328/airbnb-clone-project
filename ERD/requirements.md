@@ -67,7 +67,8 @@
 - One **Booking** has one **Review.**
 - One **Review** has one **Message.** 
 
-![ERD drawing](ERD.drawio.png)
+# ER Diagram: 
+![ERD drawing](ERD.drawio.png) 
 
 
 
