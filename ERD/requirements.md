@@ -52,6 +52,16 @@
   - recipient_id
   - messsage_body
   - sent_at 
+## Relationships: 
+- One **User** can own many **Properties.** 
+- One **User** can make many **Bookings.** 
+- One **Property** can have many **Bookings.** 
+- One **Booking** has one **Payment.** 
+- One **Booking** has one **Review.**
+- One **Review** has one **Message.** 
+
+
+
 
 
 
