@@ -67,7 +67,7 @@
 - One **Booking** has one **Review.**
 - One **Review** has one **Message.** 
 
-![ERD Drawing](https://airbnb-clone-project/ERD/img/ERD.drawio.png) 
+
 
 
 
